@@ -1,4 +1,3 @@
-build
 node_modules
 example/output
 __tests__/output
